@@ -6,3 +6,4 @@ Feel free to add to your own investigative toolkit, however you may NOT sell or 
 I accept no liability in what you decide to use these for, so do no evil.
 
 -Sin
+https://ohshint.gitbook.io/
